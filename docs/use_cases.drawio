@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Use Cases">
+    <mxGraphModel dx="1280" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Use_Cases" value="Use Cases" style="swimlane;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="300" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="UC1" value="Browse and filter dog profiles" style="rounded=0;whiteSpace=wrap;html=1;" parent="Use_Cases" vertex="1">
+          <mxGeometry x="20" y="20" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UC2" value="View dogs with pagination and select favorites" style="rounded=0;whiteSpace=wrap;html=1;" parent="Use_Cases" vertex="1">
+          <mxGeometry x="20" y="50" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UC3" value="Add or update a dog profile (admin)" style="rounded=0;whiteSpace=wrap;html=1;" parent="Use_Cases" vertex="1">
+          <mxGeometry x="20" y="80" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UC4" value="Assign or remove dogs for a user" style="rounded=0;whiteSpace=wrap;html=1;" parent="Use_Cases" vertex="1">
+          <mxGeometry x="20" y="110" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UC5" value="Register a user with tier codes (admin/basic)" style="rounded=0;whiteSpace=wrap;html=1;" parent="Use_Cases" vertex="1">
+          <mxGeometry x="20" y="140" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UC6" value="Authenticate users" style="rounded=0;whiteSpace=wrap;html=1;" parent="Use_Cases" vertex="1">
+          <mxGeometry x="20" y="170" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UC7" value="Upload images to Supabase" style="rounded=0;whiteSpace=wrap;html=1;" parent="Use_Cases" vertex="1">
+          <mxGeometry x="20" y="200" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UC8" value="Submit contact requests" style="rounded=0;whiteSpace=wrap;html=1;" parent="Use_Cases" vertex="1">
+          <mxGeometry x="20" y="230" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UC9" value="Retrieve dog data and manage user-dog assignments" style="rounded=0;whiteSpace=wrap;html=1;" parent="Use_Cases" vertex="1">
+          <mxGeometry x="20" y="260" width="260" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
